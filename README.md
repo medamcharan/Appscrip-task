@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/medamcharan/Appscrip-task-Charan..git
+   git clone https://github.com/medamcharan/Appscrip-task-Charan-M.git
    ```
 2. Navigate into the project directory:
    ```bash
